@@ -24,13 +24,15 @@ and one of MATH 302, STAT 302.
 
 ## Textbook
 
-We will be using a collection of resources available online. These
-include:
+The course notes, which can be ordered from the UBC bookstore, are:
+-Joe, H. (2020): Course Notes for STAT 306: Finding Relationships in Data.
 
--   [DSCI 310 course
-    notes](https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science)
--   [R packages](https://r-pkgs.org/)
--   [Python packages](https://py-pkgs.org/)
+Other useful texts, both available via the library website, are:
+- Chatterjee, S. and Hadi, A.S. (2006): Regression Analysis by Example, (4th
+edit.). Wiley (In particular chapters 1ñ6, 11, 9.1-9.7, 12.1-12.7, 13.3 are cov-
+ered.)
+- Pardoe, I. (2020): Applied Regression Modeling, (3rd edit.). Wiley. (2nd
+edition (2012) also helpful.
 
 ## Hardware & software
 
