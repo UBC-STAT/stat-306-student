@@ -55,7 +55,7 @@
     "href": "index.html#textbook",
     "title": "Syllabus",
     "section": "Textbook",
-    "text": "Textbook\nWe will be using a collection of resources available online. These include:\n\nDSCI 310 course notes\nR packages\nPython packages",
+    "text": "Textbook\nThe course notes, which can be ordered from the UBC bookstore, are: -Joe, H. (2020): Course Notes for STAT 306: Finding Relationships in Data.\nOther useful texts, both available via the library website, are: - Chatterjee, S. and Hadi, A.S. (2006): Regression Analysis by Example, (4th edit.). Wiley (In particular chapters 1ñ6, 11, 9.1-9.7, 12.1-12.7, 13.3 are cov- ered.) - Pardoe, I. (2020): Applied Regression Modeling, (3rd edit.). Wiley. (2nd edition (2012) also helpful.",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
