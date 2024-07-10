@@ -1,3 +1,8 @@
+---
+title: "Code of Conduct"
+subtitle: "STAT 306: Finding Relationships in Data"
+---
+
 ### Introduction
 
 We are committed to creating a friendly and respectful place for
