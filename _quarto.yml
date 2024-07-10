@@ -7,11 +7,9 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Syllabus"
+      - section: "STAT 306: Finding Relationships in Data"
         contents:
           - index.qmd
-      - section: "Code of Conduct"
-        contents:
           - CODE_OF_CONDUCT.qmd
 
 format:

@@ -1,5 +1,6 @@
 ---
-title: "STAT 306: Finding Relationships in Data"
+title: "Syllabus"
+subtitle: "STAT 306: Finding Relationships in Data"
 ---
 
 ## Time and place
