@@ -2,7 +2,7 @@
 
 Lucy Gao & Tiffany Timbers, 2024
 
-- [STAT 306 course website]()
+- [STAT 306 course website](https://ubc-stat.github.io/stat-306-student)
 
 ## License:
 
