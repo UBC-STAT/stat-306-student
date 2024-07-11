@@ -40,11 +40,11 @@
     ]
   },
   {
-    "objectID": "index.html#prerequisite",
-    "href": "index.html#prerequisite",
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
     "title": "Syllabus",
-    "section": "Prerequisite",
-    "text": "Prerequisite\nOne of MATH 152, MATH 221, MATH 223 and one of STAT 200, STAT 241, STAT 251, STAT 300, BIOL 300, BUSI 291, COMM 191, COMM 291, ECON 325, ECON 327, FRST 231, PSYC 218, PSYC 278 and one of MATH 302, STAT 302.",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nOne of MATH 152, MATH 221, MATH 223\nOne of STAT 200, STAT 241, STAT 251, STAT 300, BIOL 300, BUSI 291, COMM 191, COMM 291, ECON 325, ECON 327, FRST 231, PSYC 218, PSYC 278\nOne of MATH 302, STAT 302.",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
@@ -55,7 +55,7 @@
     "href": "index.html#textbook",
     "title": "Syllabus",
     "section": "Textbook",
-    "text": "Textbook\nThe course notes, which can be ordered from the UBC bookstore, are: -Joe, H. (2020): Course Notes for STAT 306: Finding Relationships in Data.\nOther useful texts, both available via the library website, are: - Chatterjee, S. and Hadi, A.S. (2006): Regression Analysis by Example, (4th edit.). Wiley (In particular chapters 1ñ6, 11, 9.1-9.7, 12.1-12.7, 13.3 are cov- ered.) - Pardoe, I. (2020): Applied Regression Modeling, (3rd edit.). Wiley. (2nd edition (2012) also helpful.",
+    "text": "Textbook\nThe course notes, which can be ordered from the UBC bookstore, are:\n\nJoe, H. (2020): Course Notes for STAT 306: Finding Relationships in Data.\n\nOther useful texts, both available via the library website, are:\n\nChatterjee, S. and Hadi, A.S. (2006): Regression Analysis by Example, 4th edition; in particular, chapters 1-6, 11, 9.1-9.7, 12.1-12.7, 13.3 are covered.\nPardoe, I. (2020): Applied Regression Modeling, 3rd edition, Wiley. The 2nd edition (2012) is also helpful.",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
@@ -66,7 +66,7 @@
     "href": "index.html#hardware-software",
     "title": "Syllabus",
     "section": "Hardware & software",
-    "text": "Hardware & software\nStudents are required to bring a laptop to both lectures and tutorials. We will be using the the programming language R, the Quarto scientific and technical publishing system, and the RStudio Desktop integrated development environment (IDE). Visit the links below to download the version of software needed for your operating system, and install it on your laptop. - R programming language - RStudio Desktop - Quarto",
+    "text": "Hardware & software\nStudents are required to bring a laptop to both lectures and tutorials. We will be using the the programming language R, the Quarto scientific and technical publishing system, and the RStudio Desktop integrated development environment (IDE). Visit the links below to download the version of software needed for your operating system, and install it on your laptop.\n\nR programming language\nRStudio Desktop\nQuarto",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
@@ -77,7 +77,7 @@
     "href": "index.html#objectives",
     "title": "Syllabus",
     "section": "Objectives",
-    "text": "Objectives\nOn completing the course, students should be able to demonstrate an understanding of the techniques and applications of well known ideas in linear modelling, including model fitting, model selection, model diagnostics, as well as basic ideas for generalised linear models and principal components analysis.",
+    "text": "Objectives\nOn completing the course, students should be able to demonstrate an understanding of the techniques and applications of well known ideas in linear modelling, including model fitting, model selection, model diagnostics, as well as basic ideas for generalized linear models and principal components analysis.",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
@@ -88,7 +88,7 @@
     "href": "index.html#learning-outcomes",
     "title": "Syllabus",
     "section": "Learning outcomes",
-    "text": "Learning outcomes\n\nUnderstand the principles of model fitting and inference for linear models involving a response variable with a single explanatory variable.\nUnderstand the role of residuals in linear regression, including model diagnostics.\nAppreciate and apply key concepts of linear modelling when there is more than one explanatory variable.\nUnderstand and apply linear model theory to cases where at least one explanatory variable is categorical.\nCritique studies that involve regression methods, including identification of any flaws and limitations to inferences.\nApply commonly used methods for model selection in a multiple regression context.\nUse and interpret common approaches to identifying influential data points and outliers in a regression context.\nApply and interpret linear models that involve the transformation of one or more variable.\nApply and interpret a principal components analysis (PCA).\nUnderstand and apply concepts from generalised linear modelling, including logistic and Poisson regression.\nApply linear modelling methods in the software R, using appropriate R functions and interpreting the output.",
+    "text": "Learning outcomes\n\nUnderstand the principles of model fitting and inference for linear models involving a response variable with a single explanatory variable.\nUnderstand the role of residuals in linear regression, including model diagnostics.\nAppreciate and apply key concepts of linear modelling when there is more than one explanatory variable.\nUnderstand and apply linear model theory to cases where at least one explanatory variable is categorical.\nCritique studies that involve regression methods, including identification of any flaws and limitations to inferences.\nApply commonly used methods for model selection in a multiple regression context.\nUse and interpret common approaches to identifying influential data points and outliers in a regression context.\nApply and interpret linear models that involve the transformation of one or more variable.\nApply and interpret a principal components analysis (PCA).\nUnderstand and apply concepts from generalized linear modelling, including logistic and Poisson regression.\nApply linear modelling methods in the software R, using appropriate R functions and interpreting the output.",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
@@ -99,7 +99,7 @@
     "href": "index.html#teaching-team",
     "title": "Syllabus",
     "section": "Teaching Team",
-    "text": "Teaching Team\n\n\n\n\n\n\n\n\n\n\nPosition\nName\nEmail\nOffice Hours\nOffice Location\n\n\n\n\nInstructor\nLucy Gao\n\nTBD\nSee Canvas\n\n\nInstructor\nTiffany Timbers\ntiffany.timbers[-at-]stat.ubc.ca\nTBD\nSee Canvas\n\n\nTA\n\n\nTBD\nSee Canvas",
+    "text": "Teaching Team\n\n\n\n\n\n\n\n\n\n\nPosition\nName\nEmail\nOffice Hours\nOffice Location\n\n\n\n\nInstructor\nLucy Gao\nlucy.gao[-at-]ubc.ca\nTBD\nSee Canvas\n\n\nInstructor\nTiffany Timbers\ntiffany.timbers[-at-]stat.ubc.ca\nTBD\nSee Canvas\n\n\nTA\n\n\nTBD\nSee Canvas",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
@@ -110,7 +110,7 @@
     "href": "index.html#assessment",
     "title": "Syllabus",
     "section": "Assessment",
-    "text": "Assessment\n\nGrading breakdown",
+    "text": "Assessment\n\nGrading breakdown\n\n\n\nDeliverable\nGrade\n\n\n\n\niClicker cloud\n5%\n\n\nPre-class quizzes\n5%\n\n\nLab activities\n10%\n\n\nWeBWorK homeworks\n10%\n\n\nAssignment 1\n5%\n\n\nAssignment 2\n5%\n\n\nGroup project\n10%\n\n\nMid-term Exam\n20%\n\n\nFinal Exam\n30%",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"
@@ -121,7 +121,7 @@
     "href": "index.html#schedule-at-a-glance",
     "title": "Syllabus",
     "section": "Schedule at a glance",
-    "text": "Schedule at a glance\n\n\nAssessment schedule\nIn general, assignments will be due 11:59 PM on Saturdays. However, in the final week of classes, all assignments need to be submitted by the final day of classes, thus we have two alternative due dates that week.",
+    "text": "Schedule at a glance\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nLecture Dates\nInstructor\nTopic\nPre-work (Pencast)\nAssessments due\n\n\n\n\n1\n2025-01-07\nLucy\nIntroduction to STAT 306\nIntroduction to relationships in data\nQuiz 1/2\n\n\n\n2025-01-09\nTiffany\nLeast square estimation\nLeast square estimation\n\n\n\n2\n2025-01-14\nLucy\nProperties of the simple linear model\nResiduals and (OPTIONAL) Normal probability plots\nQuiz 3/4, Lab Activity 1, HW 1\n\n\n\n2025-01-16\nTiffany\nConfidence intervals\nProperties of estimators\n\n\n\n3\n2025-01-21\nLucy\nPrediction intervals\nConfidence and prediction intervals\nQuiz 5/6, Lab Activity 2, HW 2\n\n\n\n2025-01-23\nTiffany\nInference in regression\nDistributional theory\n\n\n\n4\n2025-01-28\nLucy\nMatrix formulation of linear models\nMatrix representation of linear models\nQuiz 7/8, Lab Activity 3, HW 3\n\n\n\n2025-01-30\nTiffany\nProperties of least squares estimators\nEstimator properties in matrix form\n\n\n\n5\n2025-02-04\nLucy\nProperties of residuals\nFurther properties of residuals and (OPTIONAL) Advanced distribution theory\nQuiz 9/10, HW 4\n\n\n\n2025-02-06\nTiffany\nCategorical variables\nDummy variables in linear models\n\n\n\n6\n2025-02-11\nLucy\nMore on categorical variables\nAdvanced dummy variables\nQuiz 11/12, Lab Activity 5, HW 5\n\n\n\n2025-02-13\nTiffany\nQuadratic models and curve fitting\nCollinearity\n\n\n\n7\n2025-02-18\n\nMidterm break\n\n\n\n\n\n2025-02-20\n\n\n\n\n\n\n8\n2025-02-25\nTiffany\nCase studies\nResearch studies\nQuiz 13/14, HW 6, Assignment 1\n\n\n\n2025-02-27\nTiffany\nPartial correlation and midterm review\nPartial correlation\n\n\n\n9\n2025-03-04\nLucy\nModel selection\nModel selection methods\nQuiz 15/16, Lab Activity 6, HW 7, Group project proposal\n\n\n\n2025-03-06\nTiffany\nLeverage and influence\nInfluence, leverage, and outliers\n\n\n\n10\n2025-03-11\nLucy\nTransformations\nTransformations\nQuiz 17/18, Lab Activity 7, HW 8\n\n\n\n2025-03-13\nTiffany\nContinuous interactions\nInteraction between continuous covariates\n\n\n\n11\n2025-03-18\nLucy\nModelling a binary response\nModelling a binary response\nQuiz 19/20, Lab Activity 8, HW 9, Group project peer review\n\n\n\n2025-03-20\nTiffany\nFurther logistic regression/PCA\nPrincipal components analysis\n\n\n\n12\n2025-03-25\nLucy\nModel selection in logistic regression\nLikelihood and deviance\nQuiz 21/22, HW 10, Assignment 2\n\n\n\n2025-03-27\nLucy\nPoisson regression/PCR\nPrincipal components regression\n\n\n\n13\n2025-03-01\nTiffany\nFurther Poisson regression\nLikelihood and deviance and (OPTIONAL) Generalized linear models\nQuiz 23/24, Lab Activity 9, HW 11, Complete group project\n\n\n\n2025-04-03\nLucy\nFinal review\n\n\n\n\n14\n2025-04-08\nTiffany\nTBD\n\n\n\n\n\n\n\n\nAssessment schedule\nIn general:\n\nPre-class quizzes will be due the night 11:59 PM on Mondays and Wednesdays\nEverything else will be due 11:59 PM on Saturdays\n\nHowever, in the final week of classes, all assessments need to be submitted by the final day of classes, thus we have two alternative due dates that week.",
     "crumbs": [
       "STAT 306: Finding Relationships in Data",
       "Syllabus"

@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#time-and-place" id="toc-time-and-place" class="nav-link active" data-scroll-target="#time-and-place">Time and place</a></li>
   <li><a href="#course-description" id="toc-course-description" class="nav-link" data-scroll-target="#course-description">Course description</a></li>
-  <li><a href="#prerequisite" id="toc-prerequisite" class="nav-link" data-scroll-target="#prerequisite">Prerequisite</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
   <li><a href="#textbook" id="toc-textbook" class="nav-link" data-scroll-target="#textbook">Textbook</a></li>
   <li><a href="#hardware-software" id="toc-hardware-software" class="nav-link" data-scroll-target="#hardware-software">Hardware &amp; software</a></li>
   <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives">Objectives</a></li>
@@ -197,22 +197,38 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="course-description">Course description</h2>
 <p>Modelling a response (output) variable as a function of several explanatory (input) variables: multiple regression for a continuous response, logistic regression for a binary response, and log-linear models for count data. Finding low-dimensional structure: principal components analysis. Cluster analysis.</p>
 </section>
-<section id="prerequisite" class="level2">
-<h2 class="anchored" data-anchor-id="prerequisite">Prerequisite</h2>
-<p>One of MATH 152, MATH 221, MATH 223 and one of STAT 200, STAT 241, STAT 251, STAT 300, BIOL 300, BUSI 291, COMM 191, COMM 291, ECON 325, ECON 327, FRST 231, PSYC 218, PSYC 278 and one of MATH 302, STAT 302.</p>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<ul>
+<li><p>One of MATH 152, MATH 221, MATH 223</p></li>
+<li><p>One of STAT 200, STAT 241, STAT 251, STAT 300, BIOL 300, BUSI 291, COMM 191, COMM 291, ECON 325, ECON 327, FRST 231, PSYC 218, PSYC 278</p></li>
+<li><p>One of MATH 302, STAT 302.</p></li>
+</ul>
 </section>
 <section id="textbook" class="level2">
 <h2 class="anchored" data-anchor-id="textbook">Textbook</h2>
-<p>The course notes, which can be ordered from the UBC bookstore, are: -Joe, H. (2020): Course Notes for STAT 306: Finding Relationships in Data.</p>
-<p>Other useful texts, both available via the library website, are: - Chatterjee, S. and Hadi, A.S. (2006): Regression Analysis by Example, (4th edit.). Wiley (In particular chapters 1ñ6, 11, 9.1-9.7, 12.1-12.7, 13.3 are cov- ered.) - Pardoe, I. (2020): Applied Regression Modeling, (3rd edit.). Wiley. (2nd edition (2012) also helpful.</p>
+<p>The course notes, which can be ordered from the UBC bookstore, are:</p>
+<ul>
+<li>Joe, H. (2020): Course Notes for STAT 306: Finding Relationships in Data.</li>
+</ul>
+<p>Other useful texts, both available via the library website, are:</p>
+<ul>
+<li><p>Chatterjee, S. and Hadi, A.S. (2006): Regression Analysis by Example, 4th edition; in particular, chapters 1-6, 11, 9.1-9.7, 12.1-12.7, 13.3 are covered.</p></li>
+<li><p>Pardoe, I. (2020): Applied Regression Modeling, 3rd edition, Wiley. The 2nd edition (2012) is also helpful.</p></li>
+</ul>
 </section>
 <section id="hardware-software" class="level2">
 <h2 class="anchored" data-anchor-id="hardware-software">Hardware &amp; software</h2>
-<p>Students are required to bring a laptop to both lectures and tutorials. We will be using the the programming language R, the Quarto scientific and technical publishing system, and the RStudio Desktop integrated development environment (IDE). Visit the links below to download the version of software needed for your operating system, and install it on your laptop. - <a href="https://cran.r-project.org/">R programming language</a> - <a href="https://posit.co/download/rstudio-desktop/">RStudio Desktop</a> - <a href="https://quarto.org/docs/get-started/">Quarto</a></p>
+<p>Students are required to bring a laptop to both lectures and tutorials. We will be using the the programming language R, the Quarto scientific and technical publishing system, and the RStudio Desktop integrated development environment (IDE). Visit the links below to download the version of software needed for your operating system, and install it on your laptop.</p>
+<ul>
+<li><a href="https://cran.r-project.org/">R programming language</a></li>
+<li><a href="https://posit.co/download/rstudio-desktop/">RStudio Desktop</a></li>
+<li><a href="https://quarto.org/docs/get-started/">Quarto</a></li>
+</ul>
 </section>
 <section id="objectives" class="level2">
 <h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
-<p>On completing the course, students should be able to demonstrate an understanding of the techniques and applications of well known ideas in linear modelling, including model fitting, model selection, model diagnostics, as well as basic ideas for generalised linear models and principal components analysis.</p>
+<p>On completing the course, students should be able to demonstrate an understanding of the techniques and applications of well known ideas in linear modelling, including model fitting, model selection, model diagnostics, as well as basic ideas for generalized linear models and principal components analysis.</p>
 </section>
 <section id="learning-outcomes" class="level2">
 <h2 class="anchored" data-anchor-id="learning-outcomes">Learning outcomes</h2>
@@ -226,7 +242,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Use and interpret common approaches to identifying influential data points and outliers in a regression context.</li>
 <li>Apply and interpret linear models that involve the transformation of one or more variable.</li>
 <li>Apply and interpret a principal components analysis (PCA).</li>
-<li>Understand and apply concepts from generalised linear modelling, including logistic and Poisson regression.</li>
+<li>Understand and apply concepts from generalized linear modelling, including logistic and Poisson regression.</li>
 <li>Apply linear modelling methods in the software R, using appropriate R functions and interpreting the output.</li>
 </ol>
 </section>
@@ -235,10 +251,10 @@ ul.task-list li input[type="checkbox"] {
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
-<col style="width: 15%">
-<col style="width: 31%">
-<col style="width: 16%">
-<col style="width: 15%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -253,7 +269,7 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td style="text-align: center;">Instructor</td>
 <td style="text-align: center;">Lucy Gao</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">lucy.gao[-at-]ubc.ca</td>
 <td style="text-align: center;">TBD</td>
 <td style="text-align: center;">See Canvas</td>
 </tr>
@@ -278,15 +294,306 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
 <section id="grading-breakdown" class="level3">
 <h3 class="anchored" data-anchor-id="grading-breakdown">Grading breakdown</h3>
-<!-- read in a csv -->
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Deliverable</th>
+<th>Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>iClicker cloud</td>
+<td>5%</td>
+</tr>
+<tr class="even">
+<td>Pre-class quizzes</td>
+<td>5%</td>
+</tr>
+<tr class="odd">
+<td>Lab activities</td>
+<td>10%</td>
+</tr>
+<tr class="even">
+<td>WeBWorK homeworks</td>
+<td>10%</td>
+</tr>
+<tr class="odd">
+<td>Assignment 1</td>
+<td>5%</td>
+</tr>
+<tr class="even">
+<td>Assignment 2</td>
+<td>5%</td>
+</tr>
+<tr class="odd">
+<td>Group project</td>
+<td>10%</td>
+</tr>
+<tr class="even">
+<td>Mid-term Exam</td>
+<td>20%</td>
+</tr>
+<tr class="odd">
+<td>Final Exam</td>
+<td>30%</td>
+</tr>
+</tbody>
+</table>
 </section>
 </section>
 <section id="schedule-at-a-glance" class="level2">
 <h2 class="anchored" data-anchor-id="schedule-at-a-glance">Schedule at a glance</h2>
-<!-- read in a csv -->
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<colgroup>
+<col style="width: 2%">
+<col style="width: 6%">
+<col style="width: 5%">
+<col style="width: 19%">
+<col style="width: 37%">
+<col style="width: 29%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: right;">Week</th>
+<th style="text-align: left;">Lecture Dates</th>
+<th style="text-align: left;">Instructor</th>
+<th style="text-align: left;">Topic</th>
+<th style="text-align: left;">Pre-work (Pencast)</th>
+<th style="text-align: left;">Assessments due</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">2025-01-07</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Introduction to STAT 306</td>
+<td style="text-align: left;">Introduction to relationships in data</td>
+<td style="text-align: left;">Quiz 1/2</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-01-09</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Least square estimation</td>
+<td style="text-align: left;">Least square estimation</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">2025-01-14</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Properties of the simple linear model</td>
+<td style="text-align: left;">Residuals and (OPTIONAL) Normal probability plots</td>
+<td style="text-align: left;">Quiz 3/4, Lab Activity 1, HW 1</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-01-16</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Confidence intervals</td>
+<td style="text-align: left;">Properties of estimators</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">2025-01-21</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Prediction intervals</td>
+<td style="text-align: left;">Confidence and prediction intervals</td>
+<td style="text-align: left;">Quiz 5/6, Lab Activity 2, HW 2</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-01-23</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Inference in regression</td>
+<td style="text-align: left;">Distributional theory</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">2025-01-28</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Matrix formulation of linear models</td>
+<td style="text-align: left;">Matrix representation of linear models</td>
+<td style="text-align: left;">Quiz 7/8, Lab Activity 3, HW 3</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-01-30</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Properties of least squares estimators</td>
+<td style="text-align: left;">Estimator properties in matrix form</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">2025-02-04</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Properties of residuals</td>
+<td style="text-align: left;">Further properties of residuals and (OPTIONAL) Advanced distribution theory</td>
+<td style="text-align: left;">Quiz 9/10, HW 4</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-02-06</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Categorical variables</td>
+<td style="text-align: left;">Dummy variables in linear models</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">2025-02-11</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">More on categorical variables</td>
+<td style="text-align: left;">Advanced dummy variables</td>
+<td style="text-align: left;">Quiz 11/12, Lab Activity 5, HW 5</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-02-13</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Quadratic models and curve fitting</td>
+<td style="text-align: left;">Collinearity</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">7</td>
+<td style="text-align: left;">2025-02-18</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">Midterm break</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-02-20</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">2025-02-25</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Case studies</td>
+<td style="text-align: left;">Research studies</td>
+<td style="text-align: left;">Quiz 13/14, HW 6, Assignment 1</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-02-27</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Partial correlation and midterm review</td>
+<td style="text-align: left;">Partial correlation</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">9</td>
+<td style="text-align: left;">2025-03-04</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Model selection</td>
+<td style="text-align: left;">Model selection methods</td>
+<td style="text-align: left;">Quiz 15/16, Lab Activity 6, HW 7, Group project proposal</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-03-06</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Leverage and influence</td>
+<td style="text-align: left;">Influence, leverage, and outliers</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">2025-03-11</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Transformations</td>
+<td style="text-align: left;">Transformations</td>
+<td style="text-align: left;">Quiz 17/18, Lab Activity 7, HW 8</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-03-13</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Continuous interactions</td>
+<td style="text-align: left;">Interaction between continuous covariates</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">11</td>
+<td style="text-align: left;">2025-03-18</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Modelling a binary response</td>
+<td style="text-align: left;">Modelling a binary response</td>
+<td style="text-align: left;">Quiz 19/20, Lab Activity 8, HW 9, Group project peer review</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-03-20</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Further logistic regression/PCA</td>
+<td style="text-align: left;">Principal components analysis</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">12</td>
+<td style="text-align: left;">2025-03-25</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Model selection in logistic regression</td>
+<td style="text-align: left;">Likelihood and deviance</td>
+<td style="text-align: left;">Quiz 21/22, HW 10, Assignment 2</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-03-27</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Poisson regression/PCR</td>
+<td style="text-align: left;">Principal components regression</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">13</td>
+<td style="text-align: left;">2025-03-01</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">Further Poisson regression</td>
+<td style="text-align: left;">Likelihood and deviance and (OPTIONAL) Generalized linear models</td>
+<td style="text-align: left;">Quiz 23/24, Lab Activity 9, HW 11, Complete group project</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"></td>
+<td style="text-align: left;">2025-04-03</td>
+<td style="text-align: left;">Lucy</td>
+<td style="text-align: left;">Final review</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">14</td>
+<td style="text-align: left;">2025-04-08</td>
+<td style="text-align: left;">Tiffany</td>
+<td style="text-align: left;">TBD</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 <section id="assessment-schedule" class="level3">
 <h3 class="anchored" data-anchor-id="assessment-schedule">Assessment schedule</h3>
-<p>In general, assignments will be due 11:59 PM on Saturdays. However, in the final week of classes, all assignments need to be submitted by the final day of classes, thus we have two alternative due dates that week.</p>
+<p>In general:</p>
+<ul>
+<li>Pre-class quizzes will be due the night 11:59 PM on Mondays and Wednesdays</li>
+<li>Everything else will be due 11:59 PM on Saturdays</li>
+</ul>
+<p>However, in the final week of classes, all assessments need to be submitted by the final day of classes, thus we have two alternative due dates that week.</p>
 <!-- read in a csv -->
 </section>
 </section>
