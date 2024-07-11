@@ -7,7 +7,7 @@ Week,Lecture Dates,Instructor,Topic,Pre-work (Pencast),Assessments due
 ,2025-01-23,Tiffany,Inference in regression,Distributional theory,
 4,2025-01-28,Lucy,Matrix formulation of linear models,Matrix representation of linear models,"Quiz 7/8, Lab Activity 3, HW 3"
 ,2025-01-30,Tiffany,Properties of least squares estimators,Estimator properties in matrix form,
-5,2025-02-04,Lucy,Properties of residuals,Further properties of residuals and (OPTIONAL) Advanced distribution theory,"Quiz 9/10, HW 4"
+5,2025-02-04,Lucy,Properties of residuals,Further properties of residuals and (OPTIONAL) Advanced distribution theory,"Quiz 9/10, Lab Activity 4, HW 4"
 ,2025-02-06,Tiffany,Categorical variables ,Dummy variables in linear models,
 6,2025-02-11,Lucy,More on categorical variables ,Advanced dummy variables,"Quiz 11/12, Lab Activity 5, HW 5"
 ,2025-02-13,Tiffany,Quadratic models and curve fitting,Collinearity ,
