@@ -1,28 +1,28 @@
 Week,Lecture Dates,Instructor,Topic,Pre-work (Pencast),Assessments due 
 1,2025-01-07,Lucy,Introduction to STAT 306,Introduction to relationships in data ,Quiz 1/2
 ,2025-01-09,Tiffany,Least square estimation ,Least square estimation,
-2,2025-01-14,Lucy,Properties of the simple linear model,Residuals and (OPTIONAL) Normal probability plots,"Quiz 3/4, Lab Activity 1, HW 1"
+2,2025-01-14,Lucy,Properties of the simple linear model,Residuals and (OPTIONAL) Normal probability plots,"Quiz 3/4, Lab Activity 1, Mini-HW 1"
 ,2025-01-16,Tiffany,Confidence intervals,Properties of estimators,
-3,2025-01-21,Lucy,Prediction intervals,Confidence and prediction intervals,"Quiz 5/6, Lab Activity 2, HW 2"
+3,2025-01-21,Lucy,Prediction intervals,Confidence and prediction intervals,"Quiz 5/6, Lab Activity 2, Mini-HW 2"
 ,2025-01-23,Tiffany,Inference in regression,Distributional theory,
-4,2025-01-28,Lucy,Matrix formulation of linear models,Matrix representation of linear models,"Quiz 7/8, Lab Activity 3, HW 3"
+4,2025-01-28,Lucy,Matrix formulation of linear models,Matrix representation of linear models,"Quiz 7/8, Lab Activity 3, Mini-HW 3"
 ,2025-01-30,Tiffany,Properties of least squares estimators,Estimator properties in matrix form,
-5,2025-02-04,Lucy,Properties of residuals,Further properties of residuals and (OPTIONAL) Advanced distribution theory,"Quiz 9/10, Lab Activity 4, HW 4"
+5,2025-02-04,Lucy,Properties of residuals,Further properties of residuals and (OPTIONAL) Advanced distribution theory,"Quiz 9/10, Lab Activity 4, Mini-HW 4"
 ,2025-02-06,Tiffany,Categorical variables ,Dummy variables in linear models,
-6,2025-02-11,Lucy,More on categorical variables ,Advanced dummy variables,"Quiz 11/12, Lab Activity 5, HW 5"
+6,2025-02-11,Lucy,More on categorical variables ,Advanced dummy variables,"Quiz 11/12, Lab Activity 5, Mini-HW 5"
 ,2025-02-13,Tiffany,Quadratic models and curve fitting,Collinearity ,
 7,2025-02-18,,Midterm break,,
 ,2025-02-20,,,,
-8,2025-02-25,Tiffany,Case studies,Research studies,"Quiz 13/14, HW 6, Assignment 1"
+8,2025-02-25,Tiffany,Case studies,Research studies,"Quiz 13/14, Mini-HW 6, HW 1"
 ,2025-02-27,Tiffany,Partial correlation and midterm review,Partial correlation ,
-9,2025-03-04,Lucy,Model selection,Model selection methods,"Quiz 15/16, Lab Activity 6, HW 7, Group project proposal"
+9,2025-03-04,Lucy,Model selection,Model selection methods,"Quiz 15/16, Lab Activity 6, Mini-HW 7, Group project proposal"
 ,2025-03-06,Tiffany,Leverage and influence ,"Influence, leverage, and outliers",
-10,2025-03-11,Lucy,Transformations,Transformations,"Quiz 17/18, Lab Activity 7, HW 8"
+10,2025-03-11,Lucy,Transformations,Transformations,"Quiz 17/18, Lab Activity 7, Mini-HW 8"
 ,2025-03-13,Tiffany,Continuous interactions,Interaction between continuous covariates,
-11,2025-03-18,Lucy,Modelling a binary response,Modelling a binary response,"Quiz 19/20, Lab Activity 8, HW 9, Group project peer review"
+11,2025-03-18,Lucy,Modelling a binary response,Modelling a binary response,"Quiz 19/20, Lab Activity 8, Mini-HW 9, Group project peer review"
 ,2025-03-20,Tiffany,Further logistic regression/PCA,Principal components analysis,
-12,2025-03-25,Lucy,Model selection in logistic regression,Likelihood and deviance,"Quiz 21/22, HW 10, Assignment 2"
+12,2025-03-25,Lucy,Model selection in logistic regression,Likelihood and deviance,"Quiz 21/22, Mini-HW 10, HW 2"
 ,2025-03-27,Lucy,Poisson regression/PCR,Principal components regression,
-13,2025-03-01,Tiffany,Further Poisson regression,Likelihood and deviance and (OPTIONAL) Generalized linear models,"Quiz 23/24, Lab Activity 9, HW 11, Complete group project"
+13,2025-03-01,Tiffany,Further Poisson regression,Likelihood and deviance and (OPTIONAL) Generalized linear models,"Quiz 23/24, Lab Activity 9, Mini-HW 11, Complete group project"
 ,2025-04-03,Lucy,Final review,,
 14,2025-04-08,Tiffany,TBD,,

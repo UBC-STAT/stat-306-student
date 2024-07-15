@@ -74,9 +74,9 @@ On completing the course, students should be able to demonstrate an understandin
 | iClicker cloud                  | 5%    |                          
 | Pre-class quizzes               | 5%    |
 | Lab activities                  | 10%   |
-| WeBWorK homeworks               | 10%   |
-| Assignment 1                    | 5%    |                       
-| Assignment 2                    | 5%    |
+| WeBWorK mini-homeworks           | 10%   |
+| Homework 1                    | 5%    |                       
+| Homework 2                    | 5%    |
 | Group project                   | 10%   | 
 | Mid-term Exam                   | 20%   | 
 | Final Exam | 30%   | 
