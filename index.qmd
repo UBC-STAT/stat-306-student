@@ -81,14 +81,14 @@ On completing the course, students should be able to demonstrate an understandin
 | Mid-term Exam                   | 20%   | 
 | Final Exam | 30%   | 
 
-## Schedule at a glance
+<!-- ## Schedule at a glance
 
 ```{r echo=FALSE} 
 options(knitr.kable.NA = '')
 knitr::kable(readr::read_csv("2024-schedule.csv", show_col_types=FALSE))
 ```
 
-
+--> 
 
 ### Assessment schedule
 

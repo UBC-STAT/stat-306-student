@@ -1,0 +1,11 @@
+---
+title: "Schedule"
+subtitle: "STAT 306: Finding Relationships in Data"
+---
+
+```{r echo=FALSE} 
+options(knitr.kable.NA = '')
+knitr::kable(readr::read_csv("2024-schedule.csv", show_col_types=FALSE))
+```
+
+
