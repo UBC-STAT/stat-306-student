@@ -105,7 +105,7 @@ However, in the final week of classes, all assessments need to be submitted by t
 
 ### Code of Conduct
 
-All participants in our course and communications are expected to show respect and courtesy to others. To creating a friendly and respectful place for learning, teaching and contributing, you are expected to read and follow the [DSCI 310 Code of Conduct](https://ubc-dsci.github.io/dsci-310-student/coc.html).
+All participants in our course and communications are expected to show respect and courtesy to others. To creating a friendly and respectful place for learning, teaching and contributing, you are expected to read and follow the [STAT 3066 Code of Conduct](CODE_OF_CONDUCT.html).
 
 ### Late registration
 
