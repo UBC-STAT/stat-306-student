@@ -67,6 +67,8 @@ On completing the course, students should be able to demonstrate an understandin
 
 ## Assessment
 
+
+
 ### Grading breakdown
 
 | Deliverable                     | Grade | 
@@ -77,7 +79,8 @@ On completing the course, students should be able to demonstrate an understandin
 | WeBWorK mini-homeworks           | 10%   |
 | Homework 1                    | 5%    |                       
 | Homework 2                    | 5%    |
-| Group project                   | 10%   | 
+| Group project proposal and peer review      | 2%    |
+| Group project final report     | 8%   | 
 | Mid-term Exam                   | 20%   | 
 | Final Exam | 30%   | 
 
@@ -105,7 +108,7 @@ However, in the final week of classes, all assessments need to be submitted by t
 
 ### Code of Conduct
 
-All participants in our course and communications are expected to show respect and courtesy to others. To creating a friendly and respectful place for learning, teaching and contributing, you are expected to read and follow the [STAT 3066 Code of Conduct](CODE_OF_CONDUCT.html).
+All participants in our course and communications are expected to show respect and courtesy to others. To creating a friendly and respectful place for learning, teaching and contributing, you are expected to read and follow the [STAT 306 Code of Conduct](CODE_OF_CONDUCT.html).
 
 ### Late registration
 
