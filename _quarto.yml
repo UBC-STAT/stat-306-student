@@ -12,8 +12,6 @@ website:
           - index.qmd
           - CODE_OF_CONDUCT.qmd
           - schedule.qmd
-  resources:
-    - ./lecture-data/*
 
 format:
   html:
@@ -23,4 +21,5 @@ format:
 
 editor: visual
 
-
+resources:
+  - ./lecture-data/*
